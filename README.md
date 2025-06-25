@@ -411,5 +411,3 @@ This project is licensed under the ISC License.
 ## Support
 
 For support or questions, please contact the development team or create an issue in the repository.
-#   L o g i n _ B a c k e n d  
- 
